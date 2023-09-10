@@ -1,2 +1,2 @@
 # CGS-ZSL
-ChatGPT-guided Semantics for Zero-shot Learning
+ChatGPT-guided Semantics for Zero-shot Learning, DICTA 2023
