@@ -1,7 +1,7 @@
 # ChatGPT-guided Semantics for Zero-shot Learning
 ChatGPT-guided Semantics for Zero-shot Learning, DICTA 2023.
 
-This paper explores how ChatGPT, a large language model, can enhance class semantics and performance for ZSL tasks.
+This paper explores how ChatGPT, a large language model, can enhance class semantics and performance for ZSL tasks. [Read: arXiv](https://arxiv.org/abs/2310.11657)
 
 <img src="images/arch.jpg">
 
